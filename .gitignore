@@ -2,3 +2,5 @@
 .idea
 ".env" 
 "send_email.py"   # Optional, or rewrite it securely
+".env" 
+"send_email.py"   # Optional, or rewrite it securely
